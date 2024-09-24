@@ -19,7 +19,7 @@ public class HelloFX extends Application {
         btn.setText("Cayden's second commit");
         btn.setOnAction(new EventHandler<>() {
             public void handle(ActionEvent event) {
-                System.out.println("Cayden says: Hello World!");
+                System.out.println("Cayden's second commit");
             }
         });
         
